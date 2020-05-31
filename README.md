@@ -12,5 +12,5 @@ Bidirectional Recurrent Neural Networks connect two hidden layers of opposite di
 * Spyder
 * TF 2.0
 
-I have also uploded the data set I used, so you can choose aby data as per your preference.
+I have also uploded the data set I used, so you can choose training data as per your preference.
 I trained this model on my GTX 1050Ti, as the model is not at all heavy so it won't matter what hardware you are using. This is just a example of text generation and basic NLP
